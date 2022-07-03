@@ -1,0 +1,95 @@
+.contactHeader{
+      overflow: auto;
+      padding: 20px;
+      animation: fadeIn 6s forwards;
+      height: 750px;
+    overflow: auto;
+    margin: 20px;
+    text-align: justify;
+    padding: 20px;
+
+
+.contact-page{
+  flex-wrap:wrap;
+  width: 100%;
+  animation: fadeIn 6s forwards;
+}
+
+.contactDesc {
+  width: 35%;
+  font-size: 200%;
+  margin-left: 10%;
+  font-weight: 500;
+  float: left;
+    p{
+        color: rgb(255, 255, 255);
+    }
+}
+
+
+.contactDetails{
+  margin-top: -5%;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  width: 25%;
+  margin-left: 15%;
+  border: 9px solid rgb(0, 85, 255);
+  
+  h2{
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+    font-weight: 900;
+  }
+  a{
+      color: black;
+      font-size: 100%;
+      font-weight: 900;
+      padding: 10% 5% 1% 5%;
+  }
+  p{
+    color: black;
+    font-size: 150%;
+    font-weight: 900;
+    padding: 10% 5% 1% 5%;
+}
+  img{
+    height: 40%;
+    width: 40%;
+    margin-left: 27%;
+    margin-top:  5%;
+    border: 3px solid yellowgreen;
+    border-radius: 70%;
+  }
+  span{
+    color: rgb(0, 76, 255);
+  }
+}
+
+.flex-direction{
+  flex-direction:row;
+}
+
+
+@media screen and (max-width: 500px) {
+  .flex-direction{
+  flex-direction:column;
+  }
+  .contact-page{
+      margin: auto;
+  }
+  .contactDesc{
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom: 10%;
+  }
+  .contactDetails{
+      width: 100%;
+      margin-left: 0;
+      margin-bottom: 10%;
+      margin-right: 0;
+  }
+}
+}
