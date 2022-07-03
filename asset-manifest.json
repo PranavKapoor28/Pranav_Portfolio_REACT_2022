@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/Pranav_Portfolio_REACT_2022/static/css/main.1d9270a2.css",
-    "main.js": "/Pranav_Portfolio_REACT_2022/static/js/main.5b30b7f3.js",
+    "main.css": "/Pranav_Portfolio_REACT_2022/static/css/main.a1d7f8c1.css",
+    "main.js": "/Pranav_Portfolio_REACT_2022/static/js/main.e1a8c81f.js",
     "static/js/787.dd0d8334.chunk.js": "/Pranav_Portfolio_REACT_2022/static/js/787.dd0d8334.chunk.js",
     "static/media/MyPhoto.jpeg": "/Pranav_Portfolio_REACT_2022/static/media/MyPhoto.9cc0511f943c73949f30.jpeg",
-    "static/media/IIT.png": "/Pranav_Portfolio_REACT_2022/static/media/IIT.070382f75fa5dd7cb5f5.png",
     "static/media/flag.png": "/Pranav_Portfolio_REACT_2022/static/media/flag.aa3012add969bf00c3e2.png",
     "static/media/helvetica-neu.ttf": "/Pranav_Portfolio_REACT_2022/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/Pranav_Portfolio_REACT_2022/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
@@ -15,12 +14,12 @@
     "static/media/flutter-logo.png": "/Pranav_Portfolio_REACT_2022/static/media/flutter-logo.c01689b8b9b67dcf0ef1.png",
     "static/media/CoolveticaRg-Regular.woff2": "/Pranav_Portfolio_REACT_2022/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Pranav_Portfolio_REACT_2022/index.html",
-    "main.1d9270a2.css.map": "/Pranav_Portfolio_REACT_2022/static/css/main.1d9270a2.css.map",
-    "main.5b30b7f3.js.map": "/Pranav_Portfolio_REACT_2022/static/js/main.5b30b7f3.js.map",
+    "main.a1d7f8c1.css.map": "/Pranav_Portfolio_REACT_2022/static/css/main.a1d7f8c1.css.map",
+    "main.e1a8c81f.js.map": "/Pranav_Portfolio_REACT_2022/static/js/main.e1a8c81f.js.map",
     "787.dd0d8334.chunk.js.map": "/Pranav_Portfolio_REACT_2022/static/js/787.dd0d8334.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d9270a2.css",
-    "static/js/main.5b30b7f3.js"
+    "static/css/main.a1d7f8c1.css",
+    "static/js/main.e1a8c81f.js"
   ]
 }
