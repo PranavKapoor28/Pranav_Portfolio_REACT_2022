@@ -1,9 +1,7 @@
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
-import 'react-vertical-timeline-component/style.min.css';
 import { useEffect, useState } from 'react'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
-import IITlogo from '../../assets/images/IIT.png'
 import Loader from 'react-loaders'
 
 const Experience = () => {

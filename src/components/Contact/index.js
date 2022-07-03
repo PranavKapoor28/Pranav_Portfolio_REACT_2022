@@ -9,7 +9,7 @@ import 'react-toastify/dist/ReactToastify.css'
 
 const Contact = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const form = useRef()
+
     const contactArray = 'Contact Me'.split('')
 
     useEffect(() => {
@@ -47,7 +47,7 @@ const Contact = () => {
                             <h2>Contact Details</h2>
 
                             <div>
-                                <img src={MyPhoto}></img>
+                                <img src={MyPhoto} alt="My Avatar"></img>
                             </div>
 
                             <p><span>Email</span> :<a href="mailto:pranavkapoor2k09@gmail.com?subject=SendMail&body=Description" rel="noreferrer" target="_blank">pranavkapoor2k09@gmail.com </a></p>
