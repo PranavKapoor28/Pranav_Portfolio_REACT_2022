@@ -1,4 +1,3 @@
-import 'react-vertical-timeline-component/style.min.css';
 import { useEffect, useState } from 'react'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
