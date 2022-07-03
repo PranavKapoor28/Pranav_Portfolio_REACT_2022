@@ -1,4 +1,5 @@
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
+// import 'react-vertical-timeline-component/style.min.css';
 import { useEffect, useState } from 'react'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
@@ -38,11 +39,11 @@ const Experience = () => {
                     >
                         <h1 className="vertical-timeline-element-title">Student Research Associate</h1>
                         <h2 className="vertical-timeline-element-company">Indian Institute of Technology</h2>
-                        <h4 className="vertical-timeline-element-subtitle">Kanpur, India</h4>
-                        <p>
+                        <h4 className="vertical-timeline-element-subtitle">Kanpur, India</h4><br></br>
+                        <h4>
                             1. Responsible for Research on the latest Blockchain currencies and practices to protect user’s resources and data.
                             <br></br>   2. Developing a full-stack website for creating a dashboard to track a user's crypto transactions and the nature of the transactions through graphs and widgets.
-                        </p>
+                        </h4>
                     </VerticalTimelineElement >
 
                     <VerticalTimelineElement
@@ -54,9 +55,9 @@ const Experience = () => {
 
                         <h1 className="vertical-timeline-element-title">Software Engineer Intern</h1>
                         <h2 className="vertical-timeline-element-company">BusinessTechLabs</h2>
-                        <h4 className="vertical-timeline-element-subtitle">Bangalore, India</h4>
-                        <p>1. Developed an expense tracker app using Firebase database and flutter to keep track record of all the expenses made by the user and calculate the amount due to be paid to people.
-                            <br></br>2 .Prepared and submitted reports and other documentation to assist development team members.</p>
+                        <h4 className="vertical-timeline-element-subtitle">Bangalore, India</h4><br></br>
+                        <h4>1. Developed an expense tracker app using Firebase database and flutter to keep track record of all the expenses made by the user and calculate the amount due to be paid to people.
+                            <br></br>2 .Prepared and submitted reports and other documentation to assist development team members.</h4>
                     </VerticalTimelineElement >
 
                     <VerticalTimelineElement
@@ -71,9 +72,9 @@ const Experience = () => {
                         <h1 className="vertical-timeline-element-title">Flutter Application Developer Intern</h1>
                         <h2 className="vertical-timeline-element-company">Hummsafar</h2>
                         <h4 className="vertical-timeline-element-subtitle">Boston, MA</h4>
-
-                        <p>1. Developed a Tutor hiring Application on flutter along with a VISA counselling feature in the app. Fetched data using REST API's and Android Firebase.
-                            <br></br> 2. Quickly learned new skills and applied them to daily tasks, improving efficiency and productivity.</p>
+                        <br></br>
+                        <h4>1. Developed a Tutor hiring Application on flutter along with a VISA counselling feature in the app. Fetched data using REST API's and Android Firebase.
+                            <br></br> 2. Quickly learned new skills and applied them to daily tasks, improving efficiency and productivity.</h4>
                     </VerticalTimelineElement >
 
                     <VerticalTimelineElement
@@ -87,10 +88,10 @@ const Experience = () => {
                         <h1 className="vertical-timeline-element-title">Android Developer Intern</h1>
                         <h2 className="vertical-timeline-element-company">Eatler India Private Limited</h2>
                         <h4 className="vertical-timeline-element-subtitle">Bangalore, India</h4>
-
-                        <p>1. Developed the company's Android app that lets you order food while tracking the live preparation process of food using cameras and scanners.
+                        <br></br>
+                        <h4>1. Developed the company's Android app that lets you order food while tracking the live preparation process of food using cameras and scanners.
                             <br></br>
-                            2. Collaborated with the web team to integrate the app and the website and did data analysis and configuration using postman and Django framework.</p>
+                            2. Collaborated with the web team to integrate the app and the website and did data analysis and configuration using postman and Django framework.</h4>
 
                     </VerticalTimelineElement >
 
