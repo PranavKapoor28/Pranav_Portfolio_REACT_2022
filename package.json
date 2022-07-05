@@ -2,7 +2,7 @@
   "homepage": "http://PranavKapoor28.github.io/Pranav_Portfolio_REACT_2022",
   "name": "pranav-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
